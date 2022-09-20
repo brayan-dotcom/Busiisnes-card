@@ -1,0 +1,26 @@
+body{
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a:hover{
+    background-color: #0A2472;
+}
+.container{
+    border-bottom: 5px solid #0DF005;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    margin: auto;
+    border-radius: 30px;
+    background-color: #0A2472;
+    text-align: center;
+}
+.profile{
+    width: 150px;
+    border-bottom: 5px solid #F09A05;
+    border-radius: 20px;
+}
+.dell{
+    
+}
